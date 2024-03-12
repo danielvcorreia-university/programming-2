@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"pt.ua.p2utils","l":"BinarySearchTree"},{"p":"pt.ua.p2utils","l":"HashTable"},{"p":"pt.ua.p2utils","l":"KeyValueList"},{"p":"pt.ua.p2utils","l":"LinkedList"},{"p":"pt.ua.p2utils","l":"Queue"},{"p":"pt.ua.p2utils","l":"SortedList"},{"p":"pt.ua.p2utils","l":"Stack"}]
